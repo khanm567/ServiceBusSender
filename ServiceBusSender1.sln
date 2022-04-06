@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBusSender", "ServiceBusSender\ServiceBusSender.csproj", "{8B1CA3D5-789C-4267-B498-E895A271107D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B1CA3D5-789C-4267-B498-E895A271107D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1CA3D5-789C-4267-B498-E895A271107D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1CA3D5-789C-4267-B498-E895A271107D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1CA3D5-789C-4267-B498-E895A271107D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED11D4C4-C367-437C-AA5A-C7308271AC57}
+	EndGlobalSection
+EndGlobal
